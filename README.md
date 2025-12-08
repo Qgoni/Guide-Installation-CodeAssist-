@@ -40,3 +40,4 @@ cd codeassist
 ```bash
 uv run run.py
 ```
+<img width="2537" height="1365" alt="image" src="https://github.com/user-attachments/assets/da5c8079-6fab-4a06-8a4e-37e168f6b6a9" />
